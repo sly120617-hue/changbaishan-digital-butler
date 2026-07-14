@@ -1,0 +1,9 @@
+scene_id,filename,location,required_shots,duration_seconds,resolution,orientation,license_status,license_document,asset_id,source_platform,notes
+cover,cover-changbaishan.mp4,长白山整体,云海推进|群峰航拍|天池揭幕,18-30,3840x2160,16:9,待采购,,,,首屏需具备电影感且可无缝循环
+overview,overview-yanbian.mp4,延边区域,城市|山地|公路|森林综合航拍,15-25,3840x2160,16:9,待采购,,,,避免出现不属于延边的地标
+day1,day1-yanji-night-folk-village.mp4,延吉夜景+中国朝鲜族民俗园,双语招牌|城市夜景|传统建筑|旅拍氛围,20-35,3840x2160,16:9,待采购,,,,优先实拍延吉西市场/网红墙/民俗园
+day2,day2-fangchuan-border.mp4,珲春防川边境,龙虎阁|图们江|敬信湿地|三国边境远景,18-30,3840x2160,16:9,待采购,,,,避免敏感边防设施特写
+day3,day3-changbaishan-tianchi.mp4,长白山北坡天池,火山口湖|群峰|云雾|北坡公路|瀑布,20-35,3840x2160,16:9,待采购,,,,必须能明确识别为长白山天池
+day4,day4-forest-rafting.mp4,长白山森林漂流,森林俯拍|河道穿行|晨雾|皮筏远景,18-30,3840x2160,16:9,待采购,,,,减少游客正脸和品牌标识
+transport,transport-yanbian-road.mp4,延边山地公路,车行航拍|山林公路|区域转场,15-25,3840x2160,16:9,待采购,,,,要求运动平稳便于循环
+checklist,checklist-changbaishan-forest.mp4,长白山森林氛围,林海|溪流|薄雾|静态航拍,15-25,3840x2160,16:9,待采购,,,,画面克制用于执行清单背景
